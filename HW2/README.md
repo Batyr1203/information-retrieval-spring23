@@ -2,6 +2,7 @@
 
 ## Data
 WikiIR Collection: https://github.com/getalp/wikIR
+
 Generated lemmatized collection can be found here: https://drive.google.com/file/d/1aXHb-FIN0HdCtUZapwbXmvc9kqDzXkbp/view?usp=sharing
 
 ## Evaluation
